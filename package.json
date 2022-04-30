@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "```",
+  "main": "team.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemeSibere/myteam-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "Deme Sibere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemeSibere/myteam-profile-generator/issues"
+  },
+  "homepage": "https://github.com/DemeSibere/myteam-profile-generator#readme"
+}
