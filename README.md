@@ -11,11 +11,12 @@ aboutemployees and generates an HTML webpage that displays summaries for each pe
 
 * [User Story](##User-Story)
 
+* [Installaion](##Installation)
+
 * [Usage](##Usage)
 
 * [Video Demo](##Video-Demo)
 
-* [Installaion](##Installation)
 
 
 ## User Story
@@ -26,25 +27,6 @@ I want to generate a webpage that displays
 my team's basic info.
 So that I have quick access to emails
 and GitHub profiles.``
-
-
-
-## Usage
-
-
-A user can build a team of software engineer employees with different roles 
-Using the command line application. After the user completes the prompts then 
-the team will be displayed in a new HTML file.
-
-* A walkthrough video and gif that demonstrates the functionality of the Team Profile Generator and passing tests
-    can be found here:
-
-    * ![Click here to view gif](./assets/team-profile-generator.gif)
-
-    *  https://drive.google.com/file/d/1wBos3Mwg6sG4KbgLB88rQLLg_RmBh5GJ/view
-
-     
-
 
 
 
@@ -64,4 +46,28 @@ To use Team Profile Generator run the following command in the terminal:
 To test Team Profile Generator run the following command in the terminal:
 `
 **npm run test**`
+
+
+
+
+## Usage
+
+
+A user can build a team of software engineer employees with different roles 
+Using the command line application. After the user completes the prompts then 
+the team will be displayed in a new HTML file.
+
+* A walkthrough video and gif that demonstrates the functionality of the Team Profile Generator and passing tests
+    can be found here:
+
+    * GIF of the the team profile generator![Click here to view gif](./assets/team-profile-generator.gif)
+
+    * Click on the link below to view a walkthrough video of the Team Profile Generator and passing tests https://drive.google.com/file/d/1wBos3Mwg6sG4KbgLB88rQLLg_RmBh5GJ/view
+
+    * Below is the question page![Click here to view question page](./assets/question-page.png)
+
+    * Below is my team's info page ![Click here to view my team page](./assets/my-team.png)
+
+    * Below is the passing test page ![Click here to view the test page](./assets/npm-run-test.png)
+
 
