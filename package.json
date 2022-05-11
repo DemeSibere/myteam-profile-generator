@@ -20,13 +20,8 @@
   "bugs": {
     "url": "https://github.com/DemeSibere/myteam-profile-generator/issues"
   },
-  "homepage": "https://github.com/DemeSibere/myteam-profile-generator#readme",
-  "devDependencies": {
-    "inquirer": "^6.3.1"
-  },
-  "devDependencies": {
-    "jest": "^24.9.0"
-  }  
-  
-  
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
 }
