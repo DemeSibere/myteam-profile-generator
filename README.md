@@ -9,13 +9,13 @@ aboutemployees and generates an HTML webpage that displays summaries for each pe
 ## Table of Contents
 
 
-* [User Story](##User-Story)
+- [User Story](#user-story)
 
-* [Installaion](##Installation)
+- [Installation](#installation)
 
-* [Usage](##Usage)
+- [Usage](#usage)
 
-* [Video Demo](##Video-Demo)
+- [Functionality](#functionality)
 
 
 
@@ -57,16 +57,23 @@ A user can build a team of software engineer employees with different roles
 Using the command line application. After the user completes the prompts then 
 the team will be displayed in a new HTML file.
 
-* A walkthrough video and gif that demonstrates the functionality of the Team Profile Generator and passing tests
+
+## Functionality 
+
+* A walkthrough gif and video that demonstrates the functionality of the Team Profile Generator and passing tests
     can be found here:
 
     * GIF of the the team profile generator![Click here to view gif](./assets/team-profile-generator.gif)
 
-    * Click on the link below to view a walkthrough video of the Team Profile Generator and passing tests https://drive.google.com/file/d/1wBos3Mwg6sG4KbgLB88rQLLg_RmBh5GJ/view
+
+    * Video of the Team Profile Generator and passing tests. To watch a walkthrough video, click 👉 [here](https://drive.google.com/file/d/1wBos3Mwg6sG4KbgLB88rQLLg_RmBh5GJ/view)
+
 
     * Below is the question page![Click here to view question page](./assets/question-page.png)
 
-    * Below is my team's info page ![Click here to view my team page](./assets/my-team.png)
+
+    * Below is my team's profile page ![Click here to view my team page](./assets/my-team.png)
+
 
     * Below is the passing test page ![Click here to view the test page](./assets/npm-run-test.png)
 
